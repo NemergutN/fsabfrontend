@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Fortune Generator FSAB",
-  description: "Generate some fortunes! (please let me into FSAB",
+  description: "Generate some fortunes! (please let me into FSAB)",
 };
 
 export default function RootLayout({ children }) {
